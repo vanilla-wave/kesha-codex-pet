@@ -1,4 +1,4 @@
-<p align="center"><img src="assets/kesha-waving.gif" alt="Kesha the corgi waving hello" width="260"></p>
+<p align="center"><img src="assets/kesha.png" alt="Kesha the corgi" width="260"></p>
 
 <h1 align="center">Kesha - Codex Pet</h1>
 
