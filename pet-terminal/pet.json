@@ -1,0 +1,6 @@
+{
+  "id": "kesha-terminal",
+  "displayName": "Kesha (Terminal)",
+  "description": "A terminal-compatible edition of Kesha, the cheerful tan-and-white Pembroke Welsh corgi.",
+  "spritesheetPath": "spritesheet.webp"
+}

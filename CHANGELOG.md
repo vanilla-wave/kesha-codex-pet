@@ -2,6 +2,12 @@
 
 All notable changes to Kesha are documented here.
 
+## Unreleased
+
+- Added a dedicated 8 × 9 terminal spritesheet for Codex CLI.
+- Added macOS, Linux, and Windows terminal-package installers.
+- Documented the separate desktop and terminal package formats.
+
 ## 1.0.0 - 2026-07-14
 
 - Initial public release.
